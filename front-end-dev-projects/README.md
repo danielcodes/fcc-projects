@@ -20,4 +20,22 @@
 * [x] I navigate to different sections of the webpage by clicking buttons in the navigation.
 
 
+## 3. Build a Random Quote Machine
+* Goal -> http://codepen.io/FreeCodeCamp/full/bELoPJ
+* Mine -> WIP
+
+### User stories
+* [ ] I can click a button to show me a new random quote.
+* [ ] I can press a button to tweet out a quote.
+
+
+# 4. Show the Local Weather
+* Goal -> http://codepen.io/FreeCodeCamp/full/bELRjV
+* Mine -> WIP
+
+### User stories
+* [ ] I can see the weather in my current location.
+* [ ] I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.
+* [ ] I can push a button to toggle between Fahrenheit and Celsius.
+
 
