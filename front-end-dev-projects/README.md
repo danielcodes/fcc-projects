@@ -22,11 +22,11 @@
 
 ## 3. Build a Random Quote Machine
 * Goal -> http://codepen.io/FreeCodeCamp/full/bELoPJ
-* Mine -> WIP
+* Mine -> http://codepen.io/danielcodes/full/EKmLOB/
 
 ### User stories
-* [ ] I can click a button to show me a new random quote.
-* [ ] I can press a button to tweet out a quote.
+* [x] I can click a button to show me a new random quote.
+* [x] I can press a button to tweet out a quote.
 
 
 # 4. Show the Local Weather
