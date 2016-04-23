@@ -41,7 +41,7 @@
 
 # 5. Build a Wikipedia Viewer
 * Goal -> http://codepen.io/FreeCodeCamp/full/pgNRvJ
-* Mine -> WIP
+* Mine -> http://codepen.io/danielcodes/full/eZReLW/
 
 ### User stories
 * [ ] I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
